@@ -2,7 +2,8 @@ import bisection
 import gradient_ascent
 import golden_section
 
-
+# before running this file, download all 4 files and run the following command in the terminal:
+# python3 main.py
 
 if __name__ == "__main__":
     print("Bisection Method")
